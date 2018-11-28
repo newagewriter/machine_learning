@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="18b87ede-729f-4e6a-9b67-9e33b69ced24" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Part 1 - Data Preprocessing/Data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 1 - Data Preprocessing/Section 2 -------------------- Part 1 - Data Preprocessing --------------------/.RData" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 1 - Data Preprocessing/Section 2 -------------------- Part 1 - Data Preprocessing --------------------/.Rhistory" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 1 - Data Preprocessing/Section 2 -------------------- Part 1 - Data Preprocessing --------------------/Data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 1 - Data Preprocessing/Section 2 -------------------- Part 1 - Data Preprocessing --------------------/data_preprocessing_template.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 1 - Data Preprocessing/Section 2 -------------------- Part 1 - Data Preprocessing --------------------/data_preprocessing_template.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 1 - Data Preprocessing/Section 2 -------------------- Part 1 - Data Preprocessing --------------------/data_util.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 1 - Data Preprocessing/Section 2 -------------------- Part 1 - Data Preprocessing --------------------/data_util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 1 - Data Preprocessing/categorical_data.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 1 - Data Preprocessing/categorical_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 1 - Data Preprocessing/data_preprocessing_template.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 1 - Data Preprocessing/data_preprocessing_template.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 1 - Data Preprocessing/missing_data.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 1 - Data Preprocessing/missing_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 2 - Regression/Section 3 -------------------- Part 2 - Regression --------------------/empty.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 2 - Regression/Section 4 - Simple Linear Regression/.idea/Section 4 - Simple Linear Regression.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 2 - Regression/Section 4 - Simple Linear Regression/.idea/dictionaries/kbetlej.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 2 - Regression/Section 4 - Simple Linear Regression/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 2 - Regression/Section 4 - Simple Linear Regression/.idea/libraries/R_User_Library.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 2 - Regression/Section 4 - Simple Linear Regression/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 2 - Regression/Section 4 - Simple Linear Regression/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 2 - Regression/Section 4 - Simple Linear Regression/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 2 - Regression/Section 4 - Simple Linear Regression/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 2 - Regression/Section 4 - Simple Linear Regression/Salary_Data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 2 - Regression/Section 4 - Simple Linear Regression/data_preprocessing_template.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 2 - Regression/Section 4 - Simple Linear Regression/data_preprocessing_template.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 2 - Regression/Section 4 - Simple Linear Regression/simple_linear_regression.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 2 - Regression/Section 4 - Simple Linear Regression/simple_linear_regression.py" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/multiple_linear_regression.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+              <folding>
+                <element signature="e#56#74#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../../Part1-Data_Preprocessing/data_preprocessing_template.py" />
+        <option value="$PROJECT_DIR$/multiple_linear_regression.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="990" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="Section5-Multiple_Linear_Regression" sdk-home="$USER_HOME$/anaconda3/bin/python">
+        <option name="mySdkHome" value="$USER_HOME$/anaconda3/bin/python" />
+        <option name="myModuleName" value="Section5-Multiple_Linear_Regression" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18b87ede-729f-4e6a-9b67-9e33b69ced24" name="Default Changelist" comment="" />
+      <created>1543397736387</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543397736387</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1920" height="990" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25239617" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32914287" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="10" visible="true" weight="0.32914287" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="R Packages" order="4" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../Section4-Simple_Linear_Regression/simple_linear_regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="33" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Part1-Data_Preprocessing/data_preprocessing_template.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="24" selection-start-line="24" selection-end-line="25" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-64">
+          <caret line="4475" column="4" selection-start-line="4475" selection-start-column="4" selection-end-line="4475" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multiple_linear_regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="e#56#74#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
