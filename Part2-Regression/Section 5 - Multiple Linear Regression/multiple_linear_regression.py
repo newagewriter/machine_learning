@@ -38,26 +38,22 @@ y_pred = regressor.predict(X_test)
 # Building the optimal model using Backward Elimination
 import statsmodels.formula.api as sm
 X = np.append(arr = np.ones((50, 1)).astype(int), values = X, axis = 1)
+
+SL = 0.05
+Pv = 1
+
 X_opt = X[:, [0, 1, 2, 3, 4, 5]]
-regressor_OLS = sm.OLS(endog = y, exog = X_opt).fit()
-regressor_OLS.summary()
+regressor_OLS = sm.OLS(endog=y, exog=X_opt).fit()
+while (Pv > SL):
 
-# remove the higher P value index 2
-X_opt = X[:, [0, 1, 3, 4, 5]]
-regressor_OLS = sm.OLS(endog = y, exog = X_opt).fit()
-regressor_OLS.summary()
+    regressor_OLS = sm.OLS(endog=y, exog=X_opt).fit()
+    regressor_OLS.summary()
+    xLen = X_opt[0].__len__()
+    Pv = max(regressor_OLS.pvalues).astype(float)
+    print(Pv)
+    if (Pv > SL):
+        for j in range(0, xLen):
+            if (regressor_OLS.pvalues[j].astype(float) == Pv):
+                X_opt = np.delete(X_opt, j, 1)
 
-# remove the higher P value index 1
-X_opt = X[:, [0, 3, 4, 5]]
-regressor_OLS = sm.OLS(endog = y, exog = X_opt).fit()
-regressor_OLS.summary()
-
-# remove the higher P value index 4
-X_opt = X[:, [0, 3, 5]]
-regressor_OLS = sm.OLS(endog = y, exog = X_opt).fit()
-regressor_OLS.summary()
-
-# remove the higher P value index 5
-X_opt = X[:, [0, 3]]
-regressor_OLS = sm.OLS(endog = y, exog = X_opt).fit()
 regressor_OLS.summary()
